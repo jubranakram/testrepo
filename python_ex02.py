@@ -22,6 +22,6 @@ def square(x):
 
 if __name__ == '__main__':
   nums = [4, 7, 9, 11]
-  num_squared = [square(num) for num in nums]
+  nums_squared = [square(num) for num in nums]
   print(f'Input: {nums}\n')
   print(f'Output: {nums_squared}\n')
