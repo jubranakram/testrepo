@@ -1,5 +1,8 @@
 # testrepo
 
-## adding some text
+## Files
 
-This is a test repository for one of the coursera's IBM full-stack developer courses.
+This repo contains the following:
+
+- Python files
+- HTML files
